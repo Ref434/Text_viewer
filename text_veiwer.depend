@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1634570922 source:c:\text_viwer\text_veiwer\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1642762139 source:c:\text_viwer\text_viewer\main.c
+	"Logger.h"
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"model.h"
+	"viewer.h"
+	"FileReading.h"
+	"menu.h"
+	<Commdlg.h>
+	<math.h>
+	"carriage.h"
+
+1642760128 source:c:\text_viwer\text_viewer\model.c
+	"model.h"
+
+1642759799 c:\text_viwer\text_viewer\model.h
+	"model.h"
+	<stdlib.h>
+	<stdio.h>
+	"Logger.h"
+
+1642761642 source:c:\text_viwer\text_viewer\viewer.c
+	"viewer.h"
+
+1642761006 c:\text_viwer\text_viewer\viewer.h
+	"model.h"
+	<windows.h>
+
+1642715691 source:c:\text_viwer\text_viewer\filereading.c
+	"FileReading.h"
+
+1639164539 c:\text_viwer\text_viewer\filereading.h
+	"model.h"
+	"viewer.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"Logger.h"
+	<memory.h>
+	<commdlg.h>
+
+1637756036 c:\text_viwer\text_viewer\logger.h
+	<stdlib.h>
+	<stdio.h>
+
+1637756030 source:c:\text_viwer\text_viewer\logger.c
+	"Logger.h"
+
+1637764605 c:\text_viwer\text_viewer\filedialog.h
+	<windows.h>
+	<stdbool.h>
+
+1637765989 source:c:\text_viwer\text_viewer\filedialog.c
+	"FileDialog.h"
+	<commdlg.h>
+
+1637932970 source:c:\text_viwer\text_viewer\paint.c
+	"paint.h"
+
+1637932745 c:\text_viwer\text_viewer\paint.h
+	<windows.h>
+	"viewer.h"
+
+1637933881 c:\text_viwer\text_viewer\readtext.h
+	<windows.h>
+	<stdio.h>
+
+1637766067 source:c:\text_viwer\text_viewer\openfiledlg.c
+	"openFileDlg.h"
+	<commdlg.h>
+
+1637766067 c:\text_viwer\text_viewer\openfiledlg.h
+	<windows.h>
+	<stdbool.h>
+
+1639068731 c:\text_viwer\text_viewer\menu.h
+
+1639130399 source:c:\text_viwer\text_viewer\menu.rc
+	"menu.h"
+
+1642759498 source:c:\text_viwer\text_viewer\carriage.c
+	"carriage.h"
+
+1642758266 c:\text_viwer\text_viewer\carriage.h
+	"viewer.h"
+	"model.h"
+
